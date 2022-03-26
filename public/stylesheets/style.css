@@ -129,8 +129,11 @@
   }
   
   .post {
-    margin-bottom: 2%;
+    margin: 2% 0;
+    padding: 2%;
+    border: 2px solid black;
     line-height: 150%;
+    background-color: gray;
   }
   
   .post .title span {
@@ -156,7 +159,10 @@
   .comment:nth-child(odd) {
     background-color: #fff5eb;
   }
-  
+
+  .comment:nth-child(even) {
+    background-color: #fff5eb;
+  }
   .comment .meta {
     font-size: 90%;
     margin-bottom: .5%;
