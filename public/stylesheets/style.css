@@ -8,7 +8,7 @@
     margin: 0;
     font-family: sans-serif;
     color: #333;
-    background-color: brown;
+    background-color: rgba(130, 167, 235, 0.726)
   }
 
   /* .sub-btn {
@@ -85,7 +85,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 0 1%;
-    background-color: brown;
+    background-color: rgb(20, 12, 22);
   }
   
   header h1 {
