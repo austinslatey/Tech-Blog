@@ -5,6 +5,7 @@
 
   ##Table of Contents
 
+  * [Deployed-Application](#deployed-application) 
   * [User-Story](#user-story)
   * [Description](#description)
   * [Installation](#installation)
@@ -20,6 +21,12 @@
 
   ---
 
+  ## Deployed-Application
+  Here is the link to my deployed application "The Tech-Blog" 
+  [https://mighty-mountain-81151.herokuapp.com/](https://mighty-mountain-81151.herokuapp.com/)
+
+  [deployed-app-png](assets/deployed-ss.png)
+  
   ## User-Story
   AS A developer who writes about tech, I WANT a CMS-style blog site SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
