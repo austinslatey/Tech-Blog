@@ -3,86 +3,86 @@ const { Comment } = require("../models");
 const commentdata = [
   {
     comment_text:
-      "Him? Friendly? You really don\’t know him well do you? He is an awful person.",
-      user_id: 10,
-      postId: 19
+      "Him? Friendly? You really don\'t know him well do you? He is an awful person.",
+      user_id: 9,
+      postId: 8
   },
   {
     comment_text: "Sounds like a good idea, are you author of this post?",
-    user_id: 10,
-      postId: 18
+    user_id: 8,
+      postId: 10
   },
   {
     comment_text:
       "I like funny memes like: top ten sad anime moments or top ten anime betrayals, etc. Really funny.",
-      user_id: 10,
-      postId: 17
+      user_id: 7,
+      postId: 9
   },
   {
     comment_text:
       "Any chance that there is something wrong with your keyboard? All other options are not possible.",
-      user_id: 10,
-      postId: 16
+      user_id: 6,
+      postId: 5
   },
   {
     comment_text:
       "I am actually ashamed, the other day I said hello to complete stranger when I thought that I knew him, I probably looked like silly person.",
-      user_id: 10,
-      postId: 15
+      user_id: 5,
+      postId: 4
   },
   {
     comment_text:
       "Just finished reading of LOTR, book is awesome, I felt like I was inside Middle Earth : D",
-      user_id: 10,
-      postId: 14
+      user_id: 4,
+      postId: 8
   },
   {
     comment_text:
       "People, in general, make me nervous, you can never know what to expect from them.",
-      user_id: 10,
-      postId: 13
+      user_id: 3,
+      postId: 3
   },
   {
     comment_text:
       "Guys just give me little bit of more time, I will find solution and post it in this thread, be patient.",
-      user_id: 10,
-      postId: 11
+      user_id: 9,
+      postId: 7
   },
   {
     comment_text:
       "What I love the most about 9GAG? Community and their comments, of course, they are so funny : D",
-      user_id: 10,
-      postId: 12
+      user_id: 2,
+      postId: 2
   },
   {
     comment_text:
       "Raid wipe was so common in Lich King patch, new patches are easier and this is bad thing.",
-      user_id: 10,
-      postId: 13
+      user_id: 1,
+      postId: 3
   },
   {
     comment_text:
       "What is a panic attack anyway? Why do we experience it at random moments? For no reason at all…",
-      user_id: 10,
-      postId: 14
+      user_id: 2,
+      postId: 7
   },
   {
     comment_text:
       "Hmmm, you hardly ever did anything in your life and now you wine that you are not successful, really?",
-      user_id: 10,
-      postId: 15
+      user_id: 3,
+      postId: 4
   },
   {
     comment_text:
       "Do you even understand what caused your problem? You do not have any antivirus on your system and malware damaged your system.",
-      user_id: 10,
-      postId: 16
+      user_id: 4,
+      postId: 5
   },
   {
     comment_text:
       "People do not read books anymore, they think that reading is not in trend, as if being smart is a matter of being trendy. Some people are so… weird…",
-      user_id: 10,
-      postId: 17
+      user_id: 5,
+      postId: 9
   },
   {
     comment_text:
@@ -122,7 +122,7 @@ const commentdata = [
   {
     comment_text:
       "We all are so wise, when we talk about other\’s problems and so stupid when we are trying to handle our own problems.",
-      user_id: 10,
+      user_id: 6,
       postId: 2
   },
   {
@@ -135,18 +135,18 @@ const commentdata = [
     comment_text:
       "I know what I\’m saying, you have to delete that exact file if you want to remove soft fully, otherwise it won’t work.",
       user_id: 1,
-      postId: 11
+      postId: 1
   },
   {
     comment_text:
       "How do I prepare for work? I put on my headphones and I enjoy my favorite music while coding scripts.",
-      user_id: 11,
+      user_id: 1,
       postId: 10
   },
   {
     comment_text:
       "Chewing bubble gum in public is not really nice thing to do, anyway, this is how I see it, you might have a different opinion.",
-      user_id: 10,
+      user_id: 7,
       postId: 9
   },
   {
@@ -201,17 +201,17 @@ const commentdata = [
     comment_text:
       "Jane is right, she was 100% right about this issue, follow her guide step by step and you will resolve this bug.",
       user_id: 1,
-      postId: 11
+      postId: 1
   },
   {
     comment_text: "Yes of course, as soon as you fulfill your old promises...",
-    user_id: 11,
+    user_id: 8,
     postId: 10
   },
   {
     comment_text:
       "Using your article and walkthrough, I am impressed by the results which I achieved so far.",
-      user_id: 10,
+      user_id: 9,
       postId: 9
   },
   {
@@ -266,12 +266,12 @@ const commentdata = [
     comment_text:
       "Diving is like visiting another world, another reality, it totally blows my mind every single time.",
       user_id: 1,
-      postId: 11
+      postId: 10
   },
   {
     comment_text:
       "Which movie is your favorite one? I think mine is The Book Thief. I really admired death monologues in it.",
-      user_id: 11,
+      user_id: 9,
       postId: 10
   },
   {
